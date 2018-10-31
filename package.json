@@ -1,0 +1,22 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "Chatting with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenalKumarage/chatty.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "senal kumarage",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/SenalKumarage/chatty/issues"
+  },
+  "homepage": "https://github.com/SenalKumarage/chatty#readme"
+}
