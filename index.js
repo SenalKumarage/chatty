@@ -2,8 +2,8 @@
 let app = require('express')();
 let http = require('http').Server(app);
 
-app.get('/', (req, res) => {
-    res.send('<h1>Hello Senal</h2>');
+app.get('/', function (req, res) {
+    res.sendFile(__dirname + '/index.html');
 });
 
 http.listen(3000, () => {
