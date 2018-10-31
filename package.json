@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SenalKumarage/chatty/issues"
   },
-  "homepage": "https://github.com/SenalKumarage/chatty#readme"
+  "homepage": "https://github.com/SenalKumarage/chatty#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
